@@ -1,0 +1,47 @@
+{
+    "plants": [
+      {
+        "id": 1,
+        "name": "Aloe",
+        "image": "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQO4HAqeUob7W0PV-2o25Ec_1lmsc4e7rNxBchNxo5rg&s",
+        "price": 15.99
+      },
+      {
+        "id": 2,
+        "name": "ZZ Plant",
+        "image": "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJV91AgL-d39c4eUeGqwLI8I8l5RZlluI2VZ0g41O0w&s",
+        "price": 25.98
+      },
+      {
+        "id": 3,
+        "name": "Pilea peperomioides",
+        "image": "./https://images.wsjcommerce.net/im-557182?width=1280&size=1",
+        "price": 5.99
+      },
+      {
+        "id": 4,
+        "name": "Pothos",
+        "image": "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql2Anp5VH2biwkMdqfVtYTBh29MnjPcEuVTkwSmTooQ&s",
+        "price": 12.11
+      },
+      {
+        "id": 5,
+        "name": "Jade",
+        "image": "./https://hips.hearstapps.com/hmg-prod/images/indoor-plants-1634736990.jpg",
+        "price": 10.37
+      },
+      {
+        "id": 6,
+        "name": "Monstera Deliciosa",
+        "image": "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJTD_W3o9IEcT3kPNCzR08MDT8PchH_4mGJfdLp-a2Q&s",
+        "price": 25.99
+      },
+      {
+        "id": 7,
+        "name": "Fiddle Leaf Fig",
+        "image": "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSyRbey780lYvn-rSUTqZS-PKrm4Ls0XGd4CKPTApAEA&s",
+        "price": 55
+      }
+    ]
+  }
+  
